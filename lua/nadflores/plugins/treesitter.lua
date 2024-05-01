@@ -16,7 +16,6 @@ return {
         "bash",
         "markdown",
         "markdown_inline",
-        "dart"
       },
       indent = { enable = true },
       highlight = {
